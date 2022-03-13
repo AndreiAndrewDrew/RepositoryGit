@@ -4,3 +4,4 @@ un rind nou
 12345
 un rin nou pentru repository github
 Rind nou cu SSH
+adaugat o linie noua de la user1
