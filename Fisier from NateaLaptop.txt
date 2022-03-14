@@ -1,1 +1,2 @@
 hello Git!!!
+Lucram asupra fisirului creat in Ramura noua "andrew-work1" from Nastea Laptop
