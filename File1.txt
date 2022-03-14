@@ -1,4 +1,4 @@
-am modificat un rind de la laptop
+modificam primul rind in ramura andrew-work1 de la laptop
 hello world!!!
 hello Andrew!!!
 un rind nou
